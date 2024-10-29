@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on cnn architecture for cancer<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning rust and transformers<br>
+🔭 I’m currently working on cnn architecture for cancer detection<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning rust and transformers<br>
 
 
 ## 🌐 Socials:
